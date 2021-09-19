@@ -1,5 +1,22 @@
 ## Ravi Prakash
 
-I have created this repository to host my personal blogs and write notes about things I am working on.
+_I have created this repository to host all my personal blogs and projects from multiple sources and write notes about
+things I am working on._
 
-I hope that this repository will help me share with the world, the things I am working on or interested about.
+_I hope that this repository will help me share with the world, the things I am working on or interested about._
+
+BLOGS
+-----
+> *2021/09/19* [How to solve latency issue which involves similarity cal of high dimension feature vector](AI/NLP/b20210919.md)
+
+
+TOPICS
+------
+Collections of all blogs in topics for faster access
+
+| Subject| Description|
+|---|----|
+| [AI](AI/index.md)  | NLP, Deep Learning, Machine Learning|
+| [Backend Development](BackendDev/index.md)  | My experiences in backend development|
+| [Infrastructure](Infrastructure/index.md)  | SQL, NoSQL (columnar, key-value, document store, time-series databases), Workflow management, Middlewares|
+| [Frontend Development](FrontEndDev/index.md)  | My experiences in frontend development|
