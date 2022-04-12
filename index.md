@@ -7,7 +7,7 @@ _I hope that this repository will help me share with the world, the things I am 
 
 BLOGS
 -----
-> *2021/09/19* [How to solve latency issue which involves similarity cal of high dimension feature vector](AI/NLP/b20210919.md)
+> *2021/09/19* [How to solve latency issue which involves similarity cal of high dimension feature vector](AI/NLP/b202109_01.md)
 
 
 TOPICS
