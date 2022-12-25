@@ -19,4 +19,3 @@ Collections of all blogs in topics for faster access
 | [AI](AI/index.md)  | NLP, Deep Learning, Machine Learning|
 | [Backend Development](BackendDev/index.md)  | My experiences in backend development|
 | [Infrastructure](Infrastructure/index.md)  | SQL, NoSQL (columnar, key-value, document store, time-series databases), Workflow management, Middlewares|
-| [Frontend Development](FrontEndDev/index.md)  | My experiences in frontend development|
