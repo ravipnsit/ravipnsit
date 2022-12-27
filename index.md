@@ -3,6 +3,8 @@
 _I have created this repository to host all my personal blogs and projects from multiple sources and write notes about
 things I am working on._
 
+I am reachable through email - `prakashravip1@gmail.com` or [linkedIn](https://www.linkedin.com/in/ravi-prakash-270997/)
+
 <!-- _I hope that this repository will help me share with the world, the things I am working on or interested about._ -->
 
 GITHUB
@@ -17,6 +19,7 @@ RESUME
 
 BLOGS
 -----
+
 > *2022/06/15* [Building ML Feature Store using Lakehouse Architecture](Infrastructure/DeltaLake/b202206_01.md)
 
 > [https://medium.com/@ravip18596](https://medium.com/@ravip18596)
@@ -26,12 +29,12 @@ BLOGS
 DESIGNS
 -------
 
-[Designs](Designs/index.md)
+- [Designs](Designs/index.md)
 
 PyPI
 ----
 
-[https://pypi.org/user/prakashravip1/](https://pypi.org/user/prakashravip1/)
+- [https://pypi.org/user/prakashravip1/](https://pypi.org/user/prakashravip1/)
 
 
 <!-- TOPICS
