@@ -5,6 +5,12 @@ things I am working on._
 
 <!-- _I hope that this repository will help me share with the world, the things I am working on or interested about._ -->
 
+GITHUB
+------
+
+- [ravip18596](https://github.com/ravip18596)
+- [ravipnsit](https://github.com/ravipnsit)
+
 RESUME
 ------
 - [Dec 2022](Resume/RaviPrakashResumeDec2022.pdf)
@@ -17,7 +23,7 @@ BLOGS
 
 > [Blogspot](https://ravip18596.blogspot.com/)
 
-Designs
+DESIGNS
 -------
 
 [Designs](Designs/index.md)
