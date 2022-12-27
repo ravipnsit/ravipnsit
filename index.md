@@ -3,9 +3,11 @@
 _I have created this repository to host all my personal blogs and projects from multiple sources and write notes about
 things I am working on._
 
-
 <!-- _I hope that this repository will help me share with the world, the things I am working on or interested about._ -->
 
+RESUME
+------
+- [Dec 2022](Resume/RaviPrakashResumeDec2022.pdf)
 
 BLOGS
 -----
