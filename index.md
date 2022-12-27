@@ -28,6 +28,11 @@ DESIGNS
 
 [Designs](Designs/index.md)
 
+PyPI
+----
+
+[https://pypi.org/user/prakashravip1/](https://pypi.org/user/prakashravip1/)
+
 
 <!-- TOPICS
 ------
