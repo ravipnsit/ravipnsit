@@ -1,3 +1,10 @@
+# BatterySmart
+
+Battery IOT Data Infrastructure
+-------------------------------
+
+![](assets/BatterySmart.drawio.png)
+
 # magicpin
 
 ML Infrastructure
