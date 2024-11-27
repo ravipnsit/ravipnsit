@@ -15,6 +15,8 @@ GITHUB
 
 RESUME
 ------
+- [Nov 2024 v2](Resume/RaviPrakashResumeNov2024v2.pdf)
+- [Nov 2024](Resume/RaviPrakashResumeNov2024.pdf)
 - [May 2023](Resume/RaviPrakashResumeMay2023.pdf)
 - [Dec 2022](Resume/RaviPrakashResumeDec2022V3.pdf)
 
