@@ -18,10 +18,21 @@ GITHUB
 
 RESUME
 ------
+- [April 2025](Resume/RaviPrakashResumeApril2025.pdf)
 - [Nov 2024 v2](Resume/RaviPrakashResumeNov2024v2.pdf)
 - [Nov 2024](Resume/RaviPrakashResumeNov2024.pdf)
 - [May 2023](Resume/RaviPrakashResumeMay2023.pdf)
 - [Dec 2022](Resume/RaviPrakashResumeDec2022V3.pdf)
+
+COURSES AND SPECIALIZATIONS
+----------------------------
+- [Programming with Google Go by University of California, Irvine](https://coursera.org/share/9064183acfb073f6e11ee22a0c1cb9e9)
+- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/83BB7KCATZ6D)
+- [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/U38WHNW5F4HT)
+- [Introduction to Machine Learning in Production](https://coursera.org/share/36020c79e9b0eaeeebfdfef2be904869)
+- [Confluent Fundamentals Accreditation](https://www.credential.net/f4c43a00-b7dc-417b-bcc2-1d816bc9e3d7#gs.la36pc)
+- [Go (Intermediate)](https://www.hackerrank.com/certificates/3b157e1585b7)
+
 
 BLOGS
 -----
