@@ -1,6 +1,6 @@
 ## Ravi Prakash
 
-_I am a senior software engineer with around 7 years of experience. I specialise in backend development (Python, Golang), ML and Data engineering_
+_I am a senior software engineer with around 7 years of experience. I specialise in backend development (Python, Golang, Java), ML and Data engineering_
 
 - Email - [prakashravip1@gmail.com](mailto:prakashravip1@gmail.com)
 - Linkedin - [https://www.linkedin.com/in/ravi-prakash-270997/](https://www.linkedin.com/in/ravi-prakash-270997/)
