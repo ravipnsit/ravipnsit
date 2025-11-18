@@ -18,6 +18,7 @@ GITHUB
 
 RESUME
 ------
+- [November 2025](Resume/RaviPrakashResumeNovember2025.pdf)
 - [September 2025](Resume/RaviPrakashResumeSeptember2025.pdf)
 - [August 2025](Resume/RaviPrakashResumeAugust2025.pdf)
 - [April 2025](Resume/RaviPrakashResumeApril2025.pdf)
